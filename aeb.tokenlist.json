@@ -15,6 +15,14 @@
     "tokens": [
         {
             "chainId": 43114,
+            "address": "0x25afD99fcB474D7C336A2971F26966da652a92bc",
+            "decimals": 18,
+            "name": "PARTY V2",
+            "symbol": "PARTY",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x25afD99fcB474D7C336A2971F26966da652a92bc/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x69A61f38Df59CBB51962E69C54D39184E21C27Ec",
             "decimals": 18,
             "name": "PARTY",
@@ -380,6 +388,14 @@
             "name": "Better Betting",
             "symbol": "BETR",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa6c55D876E920e34203072891c720Ac19f425a2B/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9610b01AAa57Ec026001F7Ec5CFace51BfEA0bA6",
+            "decimals": 18,
+            "name": "Binance-Peg BUSD Token",
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x9610b01AAa57Ec026001F7Ec5CFace51BfEA0bA6/logo.png"
         },
         {
             "chainId": 43114,
@@ -2692,6 +2708,14 @@
             "name": "Uptrennd",
             "symbol": "1UP",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x7fB11D8945653F0978cCA2Ef51442bF31c84e142/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "decimals": 18,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
         },
         {
             "chainId": 43114,
